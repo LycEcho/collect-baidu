@@ -15,8 +15,8 @@
 ### 根据关键词搜索结果的标题+描述 组合一篇文章
 ### <a href="https://github.com/LycEcho/collect-baidu/blob/master/例子.html" >例子.html</a>
 
-## 费用介绍**
-### 1500元永久更新升级
+
+### 免费，联系客服：kekegov 激活软件token
 
 ## 联系方式
 ### 微信号：kekegov
